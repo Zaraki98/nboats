@@ -1,4 +1,4 @@
-Minetest 0.4 mod: boats
+Minetest 0.4 mod: nboats
 =======================
 by PilzAdam, modified
 by prof_turbo and placed
